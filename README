@@ -1,0 +1,5 @@
+CRServerSwitchboard lets you easily make asynchronous, threadless HTTP calls to your server for JSON encoded data. You can specify which HTTP method to use and optionally pass request data, and the request and response data is automatically converted into JSON notation.
+
+To use it, just provide ServerSwitchboard with some methods that let it know the details of your requests and use those methods in your code.
+
+CRServerSwitchboard can be (and is!) used on both Mac OS X as well as iPhone OS.
